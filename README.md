@@ -46,4 +46,4 @@ This guide walks you through importing a theme you’ve exported/downloaded as a
 
 ---
 
-🎨 Done! Your custom theme is now active in VS Code.
+🎨 Done! Your custom theme is now active in VS Code. Generated using https://themes.vscode.one/
